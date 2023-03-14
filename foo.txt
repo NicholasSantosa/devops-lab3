@@ -1,0 +1,2 @@
+This is the foo.txt file
+This file is created in the vm
